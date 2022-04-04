@@ -18,4 +18,7 @@
 
 <div> 
  <a href="https://www.linkedin.com/in/lucas-soares-92b024172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/lucaosoarez/lucaosoarez/blob/output/github-contribution-grid-snake.svg)
+
 </div>
